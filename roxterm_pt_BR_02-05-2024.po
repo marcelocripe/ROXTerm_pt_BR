@@ -930,7 +930,7 @@ msgstr "Não foi possível copiar o perfil/esquema: %s"
 #: ../src/optsfile.c:425 ../src/roxterm.c:841 ../src/session.c:332
 #: ../src/shortcuts.c:202
 msgid "unknown reason"
-msgstr "Por razão desconhecida"
+msgstr "Por uma razão desconhecida"
 
 #: ../src/profilegui.c:83
 #, c-format
@@ -939,7 +939,7 @@ msgstr "A ferramenta do perfil ‘%s’ não foi encontrada"
 
 #: ../src/profilegui.c:345
 msgid "(Don't set)"
-msgstr "(Não definido)"
+msgstr "(Não foi definido)"
 
 #: ../src/profilegui.c:518 ../src/roxterm-config.ui:2027
 msgid "Appearance"
