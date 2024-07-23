@@ -1,6 +1,11 @@
-Repositório oficial do programa "ROXTerm"
+Repositório oficial do programa "ROXTerm" (atual)
 
 https://github.com/realh/roxterm
+
+Repositório oficial do programa "ROXTerm" (antigo)
+
+https://sourceforge.net/p/roxterm/code/ci/master/tree/
+
 
 Traduções revisadas por marcelocripe:
 
@@ -8,13 +13,13 @@ https://github.com/marcelocripe/ROXTerm_pt_BR/blob/main/roxterm_pt_BR_02-05-2024
 
 https://github.com/marcelocripe/ROXTerm_pt_BR/blob/main/roxterm.desktop
 
-Para utilizar o arquivo "roxterm_pt_BR_02-05-2024.po" e o "roxterm.desktop", inicie o Emulador de Terminal na pasta onde estão os arquivos que foram baixados.
+Para utilizar o arquivo "roxterm_pt_BR.po" e o "roxterm.desktop", inicie o Emulador de Terminal na pasta onde estão os arquivos que foram baixados.
 
-"roxterm_pt_BR_02-05-2024.po":
+"roxterm_pt_BR.po":
 
 Comando para converter o arquivo editável da tradução com a extensão ".po" para ".mo".
 
-$ msgfmt roxterm_pt_BR_02-05-2024.po -o roxterm.mo
+$ msgfmt roxterm_pt_BR.po -o roxterm.mo
 
 Comando para copiar o arquivo da tradução com a extensão ".mo" para a pasta do idioma "pt_BR".
 
