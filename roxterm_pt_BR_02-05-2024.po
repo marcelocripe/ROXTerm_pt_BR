@@ -56,7 +56,7 @@ msgstr "configurações-do-roxterm"
 #: ../src/colourgui.c:250
 #, c-format
 msgid "Illegal palette size %d"
-msgstr "O tamanho da paleta %d não é permitida"
+msgstr "O tamanho da paleta %d não é permitido"
 
 #: ../src/colourgui.c:477
 #, c-format
