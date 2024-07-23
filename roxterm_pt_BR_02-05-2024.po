@@ -1309,7 +1309,7 @@ msgstr "Não foi possível analisar os dados da sessão ‘%s’: %s"
 
 #: ../src/rtdbus.c:37 ../src/rtdbus.c:45
 msgid "<unknown>"
-msgstr "<desconhecido>"
+msgstr "<Desconhecido>"
 
 #: ../src/rtdbus.c:66
 msgid "Unable to send D-BUS message"
