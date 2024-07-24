@@ -9,7 +9,7 @@ https://sourceforge.net/p/roxterm/code/ci/master/tree/
 
 Traduções revisadas por marcelocripe:
 
-https://github.com/marcelocripe/ROXTerm_pt_BR/blob/main/roxterm_pt_BR_02-05-2024.po
+https://github.com/marcelocripe/ROXTerm_pt_BR/blob/main/roxterm_pt_BR.po
 
 https://github.com/marcelocripe/ROXTerm_pt_BR/blob/main/roxterm.desktop
 
