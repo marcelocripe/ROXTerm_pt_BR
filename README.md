@@ -16,12 +16,12 @@ https://github.com/marcelocripe/ROXTerm_pt_BR/blob/main/roxterm.desktop
 
 Para utilizar o arquivo "roxterm_pt_BR.po" e o "roxterm.desktop", inicie o Emulador de Terminal na pasta onde estão os arquivos que foram baixados.
 
-"roxterm_pt_BR.po":
+"roxterm_pt_BR_25-09-2024.po":
 
 
 Comando para converter o arquivo editável da tradução com a extensão ".po" para ".mo".
 
-$ msgfmt roxterm_pt_BR.po -o roxterm.mo
+$ msgfmt roxterm_pt_BR_25-09-2024.po -o roxterm.mo
 
 
 Comando para renomear o arquivo antigo da tradução com a extensão ".mo" que está na pasta do idioma "pt_BR".
